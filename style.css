@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    border: 4px solid black;
+    color: black;
+    font-size: 24px;
+    padding: 3px;
+    border-radius: 10px;
+}
+
+.link-header:hover {
+    background-color: yellow;
+    color: blue;
+}
+
+.link-header:focus {
+    background-color: gold;
+    color: red;
+}
+
+li {
+    font-size: 20px;
+    text-align: center;
+}
+
+li:hover {
+    color: royalblue;
+}
+
+h1 {
+    text-align: center;
+}
